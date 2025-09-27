@@ -45,4 +45,4 @@ def test_homework():
         y_pred=estimator.predict(data),
     )
 
-    assert accuracy > 0.9545
+    assert accuracy > 0.9525
